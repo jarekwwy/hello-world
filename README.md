@@ -8,3 +8,4 @@ test 2 145
  
  commit 4 przez www
 
+test z  linuksa 123456789
